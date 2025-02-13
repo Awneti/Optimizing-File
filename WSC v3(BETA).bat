@@ -1,3 +1,4 @@
+:: THIS IS EXPERIMENTAL, READ ITS DESCRIPTION BEFORE USING IT
 @echo off
 setlocal enabledelayedexpansion
 chcp 65001 >nul
